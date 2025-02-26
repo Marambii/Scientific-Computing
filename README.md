@@ -7,3 +7,6 @@
 
 ## Modular functions
 #### The calculate area function takes in shape, and 2 dimensions as parameters and uses if else statements to make detailed decisions on which block to be used. 
+
+
+#### From these excercise i have learnt how to effectively use control structures and datatypes to perform modular programming
