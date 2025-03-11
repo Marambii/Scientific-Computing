@@ -1,0 +1,7 @@
+[
+    {"temperature":22,"humidity":55,"category":"Science"},
+    {"temperature":25,"humidity":60,"category":"Math"},
+    {"temperature":27,"humidity":65,"category":"Physics"},
+    {"temperature":30,"humidity":70,"category":"Biology"},
+    {"temperature":35,"humidity":75,"category":"Chemistry"}
+]
